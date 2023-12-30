@@ -1,0 +1,12 @@
+/home/sabir/Desktop/rust/rustlings/target/release/deps/libnotify-b1aa3f1e1eda79de.rmeta: /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/sabir/Desktop/rust/rustlings/target/release/deps/libnotify-b1aa3f1e1eda79de.rlib: /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/sabir/Desktop/rust/rustlings/target/release/deps/notify-b1aa3f1e1eda79de.d: /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs:
+/home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs:
+/home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs:
+/home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs:
+/home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs:
+/home/sabir/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs:

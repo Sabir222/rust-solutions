@@ -1,0 +1,1 @@
+/home/sabir/Desktop/rust/rustlings/target/release/rustlings: /home/sabir/Desktop/rust/rustlings/src/exercise.rs /home/sabir/Desktop/rust/rustlings/src/main.rs /home/sabir/Desktop/rust/rustlings/src/project.rs /home/sabir/Desktop/rust/rustlings/src/run.rs /home/sabir/Desktop/rust/rustlings/src/ui.rs /home/sabir/Desktop/rust/rustlings/src/verify.rs
